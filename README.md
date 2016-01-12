@@ -1,5 +1,7 @@
 # Heartcheck::Appsignal
 
+[![Build Status](https://api.travis-ci.org/p-lambert/heartcheck-appsignal.svg?branch=master)](https://travis-ci.org/p-lambert/heartcheck-appsignal)
+
 A [Heartcheck](https://github.com/locaweb/heartcheck) plugin for the
 [AppSignal](https://appsignal.com/) monitoring service.
 
