@@ -1,3 +1,4 @@
+require 'appsignal'
 require 'heartcheck'
 
 module Heartcheck
