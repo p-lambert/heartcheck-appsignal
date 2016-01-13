@@ -23,7 +23,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add the following code to your `Heartcheck` initializer:
+
+```ruby
+Heartcheck.setup do |config|
+  config.add(:appsignal)
+end
+```
 
 ## Contributing
 
